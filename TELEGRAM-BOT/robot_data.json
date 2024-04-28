@@ -1,0 +1,1 @@
+{"id": 1, "location": {"lan": 55.722192, "long": 84.925278}, "direction": {"yaw": 0, "pitch": 0}, "movement_direction": "forward", "movement_last_switch_time": 250.0, "battery": {"capacity": 100.0, "durability": 80.0}, "motor_access": 2, "light_active": true, "status": "auto"}
