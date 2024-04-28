@@ -1,1 +1,0 @@
-Start-Process PowerShell "..\venv\Scripts\activate; python telegram-update.py"
